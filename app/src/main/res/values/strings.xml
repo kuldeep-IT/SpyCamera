@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GeoFenceMonitor</string>
+
+    <string name="google_map_key">AIzaSyDWng8LxAmq8l_5uOeNipc1YyI1AqmdLbQ</string>
+</resources>
